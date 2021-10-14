@@ -18,6 +18,7 @@ const styles = {
   },
   footer: {
     fontSize: '14px',
+    padding: '16px'
   },
   footerTitle: {
     fontSize: '16px',
