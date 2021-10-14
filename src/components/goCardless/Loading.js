@@ -2,7 +2,7 @@ import React from 'react';
 import { Container } from '@mui/material'
 import Paper from '@mui/material/Paper';
 import Typography from '@mui/material/Typography';
-import ErrorIcon from '@mui/icons-material/Error';
+import CircularProgress from '@mui/material/CircularProgress';
 
 const styles={
   container:{
@@ -23,13 +23,13 @@ const styles={
   }
 };
 
-export default function GoCardlessFailed(props) {
+export default function Loading(props) {
   return(
   <Container sx={styles.container} spacing={3}>
       <Paper elevation={0} sx={styles.paper}>
-        <ErrorIcon />
+        <CircularProgress />
         <Typography sx={styles.title} gutterBottom>
-          Setting up the direct debit has failed. Please try again!
+          {props.message}
         </Typography>
       </Paper>
   </Container>

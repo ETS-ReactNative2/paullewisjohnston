@@ -1,0 +1,14 @@
+{
+  "logo": "https://avatars.githubusercontent.com/u/24401125?s=60&v=4",
+  "title": "Paul Lewis Johnston",
+  "menuItems": ["Home","Projects", "Demos", "Contact", "Login"],
+  "search": true,
+  "cart": false,
+  "footer": false,
+  "footerItems": [
+  ],
+  "copyright": "Copyright © 2021 paullewisjohnston. All rights reserved.",
+  "linkedin": "//linkedin.com/in/paul-lewis-johnston-3abb6b100/",
+  "github": "//github.com/paullewisjohnston",
+  "email": "pjohnston36@qub.ac.uk"
+}

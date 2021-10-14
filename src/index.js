@@ -1,17 +1,10 @@
 import React from 'react'
 import { render } from 'react-dom'
 import App from './App'
-import { createMuiTheme,ThemeProvider } from '@material-ui/core/styles';
+import { ThemeProvider, responsiveFontSizes } from '@mui/material/styles';
+import { Theme } from './Theme';
 
-const theme = createMuiTheme({
-  typography: {
-    fontFamily: [
-      '"Lato", sans-serif',
-      '"Open Sans", sans-serif'
-    ].join(','),
-    textTransform: 'none',
-  },
-});
+const theme = responsiveFontSizes(Theme);
 
 render(
   <ThemeProvider theme={theme}>

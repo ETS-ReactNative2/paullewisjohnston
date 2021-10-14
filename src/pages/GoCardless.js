@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
-import ListContainer from '../components/ListContainer';
-import dataJobs from '../assets/data/dataJobs.json';
+import Loading from '../components/goCardless/Loading';
 
 function GoCardless(props){
   useEffect(() => {
@@ -11,7 +10,7 @@ function GoCardless(props){
 
   return (
     <div>
-      <ListContainer data={dataJobs} theme={props.theme} background={dataJobs[0].background} colorTitle={dataJobs[0].colorTitle} title={dataJobs[0].type}/>
+      <Loading message="Redirecting to payment..."/>
     </div>
   );
 }

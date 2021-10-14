@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "url": "queens-university-belfast",
+    "type": "full1",
+    "itemsPerRow": "1",
+    "backgroundImage": "qub.png",
+    "heading": "Queen's University Belfast",
+    "subheading": "MEng Computer Science (Including Professional Experience)",
+    "description": "Modules Include: Advanced Software Engineering, Algorithms: Analysis & Applications, High Performance Computing: Principles of Parallel Programming, Advanced Intelligent Information Systems, Information Systems Security, Agile and Component Based Development, Advanced Programming using C# and C++, Data Structures and Algorithms.",
+    "buttonPrimary": 
+      {
+        "text":""
+      },
+      "buttonSecondary": 
+      {
+        "text":"",
+        "link":""
+      },
+    "image": "https://previews.dropbox.com/p/thumb/ABVCHDW9Rhhanzle2DDyc-_nstcHTuPTswQnA5YVQ1eUAZat11O3Xy7OT6VE60Ct2kybROtddqPpR9p_8RIvXNc_Kvb3MPsBxW9p-BH3CAyM6CzAgU-cnOOQNB3a7I7_HRqDYnSqqZfQp0lqnDT7kP2Fm_oPdvRDQ9z7C5ry3RF5L2PGTWr5mYwqEEX1U43TEWTqy_8g_S3LTz5yw0ywLJ6HFYTth4RR1Ta7CJFN_kNmFmjcEFwy2sqbfgWoLYYm-regC9CeHE0nKwjUkGHOGtzJG0HAgqqP2WaTaAQfbZ24xBkpw69kSky6c0rel34B3RH2deDw8-ds1dyyyXeRhRE2zQ_XUj9EAZ1nZYP0t2wBSg/p.png?fv_content=true&size_mode=5",
+    "background": "#fff7f9",
+    "color": "primary",
+    "createdAt": "2019-11-17T19:07:45.301Z",
+    "updatedAt": "2019-11-17T19:07:45.301Z"
+  },
+  {
+    "id": 20,
+    "type": "grid3",
+    "itemsPerRow": "2",
+    "backgroundImage": "https://www.apple.com/v/home/ab/images/heroes/iphone-12-pro/iphone_12_pro_us__e5oyysg4k0ya_largetall.jpg",
+    "heading": "GoCardless",
+    "subheading": "Business Systems Engineer",
+    "description": "I've recently joined GoCardless as a Business Systems Engineer. This is a hybrid role, whereby I am a member of the IT Engineering team whilst also being forward deployed to the Risk & Compliance Operations team. My role involves improving the team's efficiency through process improvement, configuration of business systems and building automation tools where necessary.",
+    "buttonPrimary": 
+      {
+        "text":"",
+        "link":""
+      },
+      "buttonSecondary": 
+      {
+        "text":"",
+        "link":""
+      },
+    "image": "https://previews.dropbox.com/p/thumb/ABW2AyGd7jWI6jRMEf8dhyg3uEX0wli6mkTHn4Xsk-1IbCFEkCQo3-CxQc8L_wE5p0zFyb5izBa6maIwb4QZuMIxqGjYcv86oqC0yn9Y0_5IFy918m6B_f9-bdJGYSW1ux3xZ4aRTLTdArbaYW8Zyxt361U-dF_4Jm5-SZ-XojdwQj7gD8gePT46LHpsXlDyHEqvH0clZdI8R-Aj2HBS9uoqLe0TzQcmiBA4yFFy55OUSdkjS4CxcaDxXAFnpr8k728cWETR1rwfn77JTUQsxKCRU1PRVFcekcS9GRcl7sTakWvNC13A_q4tuR0SCaGUiLNHvi9qPGLWfQnE2apK0liqlDsgSeQXsQXi1BwdrX0dEA/p.png?fv_content=true&size_mode=5",
+    "color": "primaryLight",
+    "background": "rgb(7 27 52)",
+    "createdAt": "2019-11-17T19:07:45.301Z",
+    "updatedAt": "2019-11-17T19:07:45.301Z"
+  },
+  {
+    "id": 2,
+    "type": "grid3",
+    "itemsPerRow": "2",
+    "backgroundImage": "https://www.apple.com/v/home/ab/images/heroes/iphone-12-pro/iphone_12_pro_us__e5oyysg4k0ya_largetall.jpg",
+    "heading": "Universal Music Group",
+    "subheading": "Product Owner",
+    "description": "As a Product Owner on the Global Tech Team for Universal Production Music, my role involves liasing between the business and the Software Development Teams to plan & prioritise feature implementation, explore/review ideas and drive the direction of the application.",
+    "buttonPrimary": 
+      {
+        "text":"",
+        "link":""
+      },
+      "buttonSecondary": 
+      {
+        "text":"",
+        "link":""
+      },
+    "image": "https://previews.dropbox.com/p/thumb/ABV-WrJri4Di0ZTN5aPmRaEzqVXPBTp3AOvYIhSDl2MPl1k5jVyO_GGhZKKeBAUI88NYhGC78DBWwLmVgeAdLYW8z6DK5QCnMtcsTQN6NgCkIpLil7PI6FlvjoL27COdF53xsg_w7u6EfH2QXOQfCUM7MkaeMEHgleZ2nC1Teg59Kq3GznFzIUR5QvG_kCGQyxqIiaMPCK5cgE158pAoMpNDfoP4VhN1gA5XC9TS1hZnrTc9CYUW8TX9rInSyUbOUYtm3XsY_wB0xwI9O1iijv8IsrfjLty9T7KlrZPeFKR7v6VCNuhdSXQBC_enjB-I0GV8aSdClp5HDb2FHX5ascVviWCTZ4McPKltjJ8nDv3ldA/p.jpeg?fv_content=true&size_mode=5",
+    "color": "primaryLight",
+    "background": "rgb(16 16 16)",
+    "createdAt": "2019-11-17T19:07:45.301Z",
+    "updatedAt": "2019-11-17T19:07:45.301Z"
+  },
+  {
+    "id": 3,
+    "type": "grid3",
+    "itemsPerRow": "2",
+    "backgroundImage": "https://www.apple.com/v/home/ab/images/promos/back-to-school-2021/promo_bts__bg3cb4kaoqoi_large.jpg",
+    "heading": "The Coca-Cola Company",
+    "subheading": "Technical Analyst",
+    "description": "The USNI Mentorship programme connects future business leaders from Northern Ireland with high profile US corporations. Day-to-day work involved Digital Automation and Transformation projects, whilst being mentored in leadership and strategy.",
+    "buttonPrimary": 
+      {
+        "text":"",
+        "link":""
+      },
+      "buttonSecondary": 
+      {
+        "text":"",
+        "link":""
+      },
+    "image": "https://previews.dropbox.com/p/thumb/ABXA9vzODExD3eNAE0d9jjIoUbVmmBXHINANedvLarXEHOQhrYnc2sG5WtzPlPZ4JgM6ETccplNkmFHtmL5Zr8Y3gw7UCSXIFgjauk25cXz0g7lLTooV0I0noIrLevfJqFruA2Dm1bLpwESGCsyXiN0c0v1W4t_WMMwhBAgz1-xBm-PNoEZRWdKnnTQtHs2wMJIpzQvD09rAI-gdwpaJjB-9IYjdKHJZ-VMr5RxNi6KmqXTvpXQY9FRPivRXWV-AmgsQguoa-4Royy2f3rHVoDAc_vJBtq7ZJnlHfqzS3UUbIWylmcdNgp5fGFJXq68i6zInoDI1ZH9ALAmmp5nqSfh6GKg7k8TavZsZNOsWdntcRQ/p.png?fv_content=true&size_mode=5",
+    "color": "primary",
+    "background": "rgb(255 242 242)",
+    "createdAt": "2019-11-17T19:07:45.301Z",
+    "updatedAt": "2019-11-17T19:07:45.301Z"
+  },
+  {
+    "id": 4,
+    "type": "education",
+    "itemsPerRow": "2",
+    "backgroundImage": "https://www.apple.com/v/home/ab/images/promos/arcade-ultimate-rivals/promo_arcade__e7ps46tldi62_large.jpg",
+    "heading": "Cora Systems",
+    "subheading": "Graduate Technical Consultant",
+    "description": "As part of the Solutions Engagement Team, I configured and demoed project management software for clients across multiple business verticals. I also studied International Business Management at IMI Dublin.",
+    "buttonPrimary": 
+      {
+        "text":"",
+        "link":""
+      },
+      "buttonSecondary": 
+      {
+        "text":"",
+        "link":""
+      },
+    "image": "https://previews.dropbox.com/p/thumb/ABUX6z41rllAP2-tg4iIIFxddQsjr_M07C4-kAGDaIiXyZ028-HIeTFbo7piWGNw93n3cki-6qhC6HjS6VQmV5jxDcYZUu9DP0EENS53HdQLsmi4cxo4ovzF3xsbjxRIzrNqFhWp0LGN2F82ltrbuKLWvdJoNx5m6MniT2NtjS-94MpKySLqgWZZMtblAXPW3NSMNSA5EIWksCYH7-GeRDo3QmaawBMOmshXWHk8zeLtCOQ28-R1cQdII9t2OygwEeo7sNsFZvda7r08dncsQ5CI-vKWO_dehE7cRSmzhiMuJ0LqKEvkN7JnkGhmmBQQIhbfNmPHHyOdRHRoFHc_xbIENBCD9N5Jq-vLRvL0UDqMbg/p.png?fv_content=true&size_mode=5",
+    "color": "primary",
+    "background": "rgb(240 247 255)",
+    "createdAt": "2019-11-17T19:07:45.301Z",
+    "updatedAt": "2019-11-17T19:07:45.301Z"
+  },
+  {
+    "id": 5,
+    "type": "education",
+    "itemsPerRow": "2",
+    "backgroundImage": "https://www.apple.com/v/home/ab/images/promos/arcade-ultimate-rivals/promo_arcade__e7ps46tldi62_large.jpg",
+    "heading": "Infosys",
+    "subheading": "Full Stack Developer",
+    "description": "Instep Global Internship Program in Bangalore, India. I developed the backend of a social media talent network, used internally by over 200,000 employees.  The talent network mapped out all interconnections between employees within the company. Created recommendation algorithms to give friend suggestions to employees based on commonalities and provided the shortest paths to connect through other employees.",
+    "buttonPrimary": 
+      {
+        "text":"",
+        "link":""
+      },
+      "buttonSecondary": 
+      {
+        "text":"",
+        "link":""
+      },
+    "image": "https://previews.dropbox.com/p/thumb/ABXf1jkWxVtyKLKwFIs7o17nzI4k-5YdRUYU45MHnzzbXJya7a5IDwDxv1ZqrhEEQwv1_mk4yTvWxW5sYHwkcvYvbTQWNmLikcN_gGBf5I4gWwmtefNZFnNVYsfYavIll-2lw0o58jvEJI0olK4IMmrDF0XHnX3y_HX4-E2qJiIo88SZp4X78h1KZI56kFU7tO0_tSqj5PtcoMPPj0omszxcvvaqoS13uJ9f3p5ee7wXDxS4TP5O2nVABTausWRGWJD9_HWN5HMO9NGRFLk6q_i8fVb_nutCD8_pCiDZeyuVWjOSLeozPUT7EGoblTOUQ6fGcz-yGO4uHwFEPkoVoa82Tidx5Zz_Q_HySTSEcXPvMg/p.png?fv_content=true&size_mode=5",
+    "color": "primaryLight",
+    "background": "rgb(0 25 40)",
+    "createdAt": "2019-11-17T19:07:45.301Z",
+    "updatedAt": "2019-11-17T19:07:45.301Z"
+  },
+  {
+    "id": 6,
+    "type": "education",
+    "itemsPerRow": "2",
+    "backgroundImage": "https://www.apple.com/v/home/ab/images/promos/arcade-ultimate-rivals/promo_arcade__e7ps46tldi62_large.jpg",
+    "heading": "Atlassian",
+    "subheading": "Technical Business Analyst",
+    "description": "Technical Business Analyst on the Reporting, Business and Analytics Team for Atlassian. I Helped break down, measure and solve real-world problems. This involved complex database querying, data modelling and analytics. Communicated our findings to help the business make decisions. Built dashboards with BI Tools that drove business decisions.",
+    "buttonPrimary": 
+      {
+        "text":"",
+        "link":""
+      },
+      "buttonSecondary": 
+      {
+        "text":"",
+        "link":""
+      },
+    "image": "https://previews.dropbox.com/p/thumb/ABV_YBG4c0jOtl-fsoMktwDWeRu5AGK92J0jiST3JkO_ri7ViyhEFW_zy1T7dCdgceoa-c_xpmjhq-xHW0uFSyYW9hmr0jRLLQKBxnZmtfA_67fG1PCL1gc6IAbKGmU58J7PtQwJMw6YRxVd9eIX-h9QVQ4_2oiUaMMYITe87BpfNvU6vCJSbjeBhfMzi5_2YhDrJwtU8CKYDA9jGbrPx7hbe1vrQpFLH-8dgb_lHX0h5oCf6Xw0R6KE7tXFaQLmJMocKWmDGCDpeDJatg8hBRaWIAvRIvwmhKTGSy05KXGrbe7EFC9DDLfe6nzY0XuMytXewas789tCsmWeGnhNPBMmaDrGOlkpHVaCIX82u_t83A/p.png?fv_content=true&size_mode=5",
+    "color": "primaryLight",
+    "background": "rgb(0 34 84)",
+    "createdAt": "2019-11-17T19:07:45.301Z",
+    "updatedAt": "2019-11-17T19:07:45.301Z"
+  }
+]

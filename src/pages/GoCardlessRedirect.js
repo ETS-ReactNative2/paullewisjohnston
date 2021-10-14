@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
-import ListContainer from '../components/ListContainer';
-import dataJobs from '../assets/data/dataJobs.json';
+import Loading from '../components/goCardless/Loading';
 import {Redirect, useLocation} from "react-router-dom";
 import * as qs from 'query-string';
 
@@ -29,11 +28,11 @@ function GoCardlessRedirect(props){
     <div>
       {isComplete
         ? <Redirect to="/gocardless-success" />
-        : <ListContainer data={dataJobs} theme={props.theme} background={dataJobs[0].background} colorTitle={dataJobs[0].colorTitle} title={dataJobs[0].type}/>
+        : <Loading message="Completing payment setup..." />
       }
       {failed
         ? <Redirect to="/gocardless-failed" />
-        : <ListContainer data={dataJobs} theme={props.theme} background={dataJobs[0].background} colorTitle={dataJobs[0].colorTitle} title={dataJobs[0].type}/>
+        : <div />
       }
     </div>
   );
