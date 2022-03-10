@@ -16,6 +16,7 @@ const styles = {
 }
 
 export default function Header() {
+  const [cartOpen, setCartOpen] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
   const [searching, setSearching] = useState(false)
 
@@ -27,9 +28,25 @@ export default function Header() {
         <Container fixed maxWidth='md' sx={styles.toolbar}>
           <Toolbar variant='dense' disableGutters sx={styles.toolbar}>
            { desktop ?
-              <HeaderDesktop dataSiteConfig={dataSiteConfig} menuItems={dataSiteConfig.menuItems} setMenuOpen={setMenuOpen} menuOpen={menuOpen} setSearching={setSearching} searching={searching}/>
+              <HeaderDesktop 
+                dataSiteConfig={dataSiteConfig}
+                menuItems={dataSiteConfig.menuItems}
+                setMenuOpen={setMenuOpen}
+                menuOpen={menuOpen}
+                setCartOpen={setCartOpen}
+                cartOpen={cartOpen}
+                setSearching={setSearching}
+                searching={searching}/>
               :
-              <HeaderMobile dataSiteConfig={dataSiteConfig} menuItems={dataSiteConfig.menuItems} setMenuOpen={setMenuOpen} menuOpen={menuOpen} setSearching={setSearching} searching={searching}/>
+              <HeaderMobile 
+                dataSiteConfig={dataSiteConfig}
+                menuItems={dataSiteConfig.menuItems}
+                setMenuOpen={setMenuOpen}
+                menuOpen={menuOpen}
+                setCartOpen={setCartOpen}
+                cartOpen={cartOpen}
+                setSearching={setSearching}
+                searching={searching}/>
            }
           </Toolbar>
         </Container>

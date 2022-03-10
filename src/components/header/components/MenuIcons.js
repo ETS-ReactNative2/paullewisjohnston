@@ -4,6 +4,7 @@ import { IconButton} from '@mui/material';
 import SearchIcon from '@mui/icons-material/Search';
 import CartIcon from '@mui/icons-material/LocalMallOutlined';
 import MenuSearch from './MenuSearch';
+import MenuCart from './MenuCart';
 
 const styles={
   menuIcons: {
@@ -27,9 +28,7 @@ export default function MenuIcons(props){
         }
         {
           props.dataSiteConfig.cart &&
-          <IconButton sx={styles.menuIcon} component={RouterLink} to='/cart' color="inherit">
-            <CartIcon alt="Cart" />
-          </IconButton>
+          <MenuCart/>
         }
       </React.Fragment>
       :

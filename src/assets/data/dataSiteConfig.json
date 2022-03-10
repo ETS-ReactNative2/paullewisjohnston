@@ -4,10 +4,10 @@
   "menuItems": ["Home","Projects", "Demos", "Contact", "Login"],
   "search": true,
   "cart": false,
-  "footer": false,
+  "footer": true,
   "footerItems": [
   ],
-  "copyright": "Copyright © 2021 paullewisjohnston. All rights reserved.",
+  "copyright": "Copyright © 2022 paullewisjohnston. All rights reserved.",
   "linkedin": "//linkedin.com/in/paul-lewis-johnston-3abb6b100/",
   "github": "//github.com/paullewisjohnston",
   "email": "pjohnston36@qub.ac.uk"

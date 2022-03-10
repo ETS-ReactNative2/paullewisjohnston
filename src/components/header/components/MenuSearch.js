@@ -29,12 +29,14 @@ const styles={
 export default function MenuSearch(props){
   const [searchText, setSearchText] = React.useState('');
   const [searchResults, setSearchResults] = React.useState([]);
+  const searchResultsOrNone = (searchResults.length>0) ? searchResults : ["No results found."];
 
   const handleChange = (event) => {
     console.log(event.target.value)
     if(event.target.value.length>0) {
       setSearchResults(props.dataSiteConfig.menuItems.filter(item => item.toLowerCase().includes(event.target.value.toLowerCase())))
       props.setSearching(true)
+      console.log(searchResults.length)
     }
     else{
       props.setSearching(false)
@@ -93,7 +95,7 @@ export default function MenuSearch(props){
         </Toolbar>
         <List sx={styles.list}>
           {!props.searching && <MenuItems {...props} mobile={true}/>}
-          {props.searching && <MenuItems {...props} menuItems={searchResults} mobile={true}/>} 
+          {props.searching && <MenuItems {...props} menuItems={searchResultsOrNone} mobile={true}/>} 
         </List>
       </Drawer>
   );

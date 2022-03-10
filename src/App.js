@@ -12,6 +12,7 @@ import GoCardlessSuccess from './pages/GoCardlessSuccess'
 import GoCardlessFailed from './pages/GoCardlessFailed'
 import dataSiteConfig from './assets/data/dataSiteConfig';
 import dataHome from './assets/data/dataHome';
+import dataSubscription from './assets/data/dataSubscription';
 
 import './App.css'
 
@@ -35,6 +36,9 @@ function App(){
           </Route>
           <Route exact path='/contact'>
             <DynamicLandingPage data={dataHome}/>
+          </Route>
+          <Route exact path='/subscription'>
+            <DynamicLandingPage data={dataSubscription}/>
           </Route>
           <Route exact path='/gocardless/'>
             <GoCardless/>

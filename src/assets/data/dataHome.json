@@ -2,7 +2,7 @@
   {
     "id": 1,
     "url": "queens-university-belfast",
-    "type": "full1",
+    "type": "PreviewCard",
     "itemsPerRow": "1",
     "backgroundImage": "qub.png",
     "heading": "Queen's University Belfast",
@@ -25,7 +25,7 @@
   },
   {
     "id": 20,
-    "type": "grid3",
+    "type": "PreviewCard",
     "itemsPerRow": "2",
     "backgroundImage": "https://www.apple.com/v/home/ab/images/heroes/iphone-12-pro/iphone_12_pro_us__e5oyysg4k0ya_largetall.jpg",
     "heading": "GoCardless",
@@ -49,7 +49,7 @@
   },
   {
     "id": 2,
-    "type": "grid3",
+    "type": "PreviewCard",
     "itemsPerRow": "2",
     "backgroundImage": "https://www.apple.com/v/home/ab/images/heroes/iphone-12-pro/iphone_12_pro_us__e5oyysg4k0ya_largetall.jpg",
     "heading": "Universal Music Group",
@@ -73,7 +73,7 @@
   },
   {
     "id": 3,
-    "type": "grid3",
+    "type": "PreviewCard",
     "itemsPerRow": "2",
     "backgroundImage": "https://www.apple.com/v/home/ab/images/promos/back-to-school-2021/promo_bts__bg3cb4kaoqoi_large.jpg",
     "heading": "The Coca-Cola Company",
@@ -97,7 +97,7 @@
   },
   {
     "id": 4,
-    "type": "education",
+    "type": "PreviewCard",
     "itemsPerRow": "2",
     "backgroundImage": "https://www.apple.com/v/home/ab/images/promos/arcade-ultimate-rivals/promo_arcade__e7ps46tldi62_large.jpg",
     "heading": "Cora Systems",
@@ -121,7 +121,7 @@
   },
   {
     "id": 5,
-    "type": "education",
+    "type": "PreviewCard",
     "itemsPerRow": "2",
     "backgroundImage": "https://www.apple.com/v/home/ab/images/promos/arcade-ultimate-rivals/promo_arcade__e7ps46tldi62_large.jpg",
     "heading": "Infosys",
@@ -145,7 +145,7 @@
   },
   {
     "id": 6,
-    "type": "education",
+    "type": "PreviewCard",
     "itemsPerRow": "2",
     "backgroundImage": "https://www.apple.com/v/home/ab/images/promos/arcade-ultimate-rivals/promo_arcade__e7ps46tldi62_large.jpg",
     "heading": "Atlassian",
